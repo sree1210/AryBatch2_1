@@ -6,3 +6,6 @@ Core Java (introduction)
 
 Day-2
 OOPS (Object Oriented Programming System)
+
+Day-3
+Inheritance (All Types)
